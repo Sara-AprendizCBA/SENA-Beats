@@ -2,6 +2,8 @@
 
 ### Resumen de cambios detectados:
 
+-**Nuevos Iconos:** Se implementó un nuevo icono para la pantalla de Misiones dentro de la barra de navegación y se renovó el indicador visual que aparece cuando ocurre un error al cargar una imagen.
+
 - **Animación en DetailScreen:** Cada canción dispone de una pantalla de detalles (*DetailScreen*) que incorpora una animación de escalado, haciendo que la imagen de la canción aumente de tamaño al acceder a esta vista.
 
 - **Animación en el botón de reproducción:** El botón de reproducción y pausa aumenta ligeramente su tamaño mientras la canción se encuentra en reproducción y vuelve a su tamaño normal al pausarla.
@@ -17,3 +19,5 @@
 - **Cambio en la interacción de reproducción:** Ahora la canción se reproduce al tocar la imagen de la canción, en lugar de tocar su nombre.
 
 - **Imágenes por defecto:** El sistema utiliza imágenes genéricas precargadas en lugar de las imágenes específicas asociadas a cada canción.
+
+- **Escalado de Texto:** La animación de escalado se aplica al botón de reproducción y pausa, aumentando ligeramente su tamaño mientras el audio está en reproducción y recuperando sus dimensiones originales al detenerse.
