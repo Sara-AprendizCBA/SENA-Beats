@@ -2,6 +2,7 @@
 
 ### Resumen de cambios detectados:
 
+- **Animación en DetailScreen:** Al seleccionar una cancion ocurre una transicion al abrir la cancion y al reproducir la cancion el boton de reproduccion se amplifica.
 - **Vistas invertidas en botones:** los botones de Misiones, favoritos y pefil están mostrando pantallas diferentes a las esperadas.
 - **Error en Perfil:** se presenta un fallo visual o de funcionamiento dentro de la sección de perfil de usuario.
 - **Retroalimentación háptica perdida:** al marcar una canción como favorita ya no se activa la vibración.
